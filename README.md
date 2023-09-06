@@ -23,6 +23,7 @@ In addition, it faces several challenges:
  * The teeth position and shape variation across subjects.
  * The presence of abnormalities in dentition. For example, teeth crowding which results in teeth misalignment and thus non-explicit boundaries between neighboring teeth. Moreover, lacking teeth and holes are commonly seen among people.
 Damaged teeth.
+ * Damaged teeth.
  * The presence of braces, and other dental equipment
 
  The challenge we propose will particularly focus on point 1, i.e. the teeth position and shape variation across subjects. With the extension of available data in the mid and long term, the other points will also be addressed in further editions of the challenge.
