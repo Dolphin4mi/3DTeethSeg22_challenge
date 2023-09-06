@@ -1,3 +1,6 @@
+Fork from [https://github.com/abenhamadou/3DTeethSeg22_challenge](https://github.com/abenhamadou/3DTeethSeg22_challenge)
+
+
 ![alt text](assets/Grand-Challenge-Banner.jpeg)
 # 3D Teeth Scan Segmentation and Labeling Challenge
 The challenge 3DTeethSeg22 is a first edition associated with MICCAI 2022. It is organized by [Udini](https://www.udini.ai/) (France) in collaboration with [Inria Grenoble Morpheo team](https://team.inria.fr/morpheo/) (France) and the [Digital Research Center of Sfax](http://www.crns.rnrt.tn/) (Tunisia).
